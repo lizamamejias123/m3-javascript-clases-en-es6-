@@ -1,0 +1,22 @@
+{
+  "name": "modulo-3---clases-en-es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.15.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.14.8",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.14.8"
+  }
+}
